@@ -1,0 +1,10 @@
+diff --git a/f1 b/f1
+index ada066f..9c2a709 100644
+--- a/f1
++++ b/f1
+@@ -1,4 +1,4 @@
+ line 1
+ line 2
+ line 3
+-
++line 4
